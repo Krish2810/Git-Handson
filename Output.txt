@@ -1,0 +1,3 @@
+Hi Everyone!!
+This is git learning session!!
+Output file log
