@@ -1,2 +1,6 @@
 Hi There!
 This file is for testing!
+New bug fix
+
+Fix1
+fix2
